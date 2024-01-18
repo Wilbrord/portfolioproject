@@ -1,8 +1,9 @@
-import Image from 'next/image'
+'use client'
+
 import HomeComponents from './components/HomeComponents/HomeComponent'
 export default function Home() {
   return (
-    <main className="">
+    <main>
       <HomeComponents/>
     </main>
   )
