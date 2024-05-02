@@ -5,6 +5,8 @@ export default function Home() {
   return (
     <main>
       <HomeComponents/>
+      <HomeComponents/>
+      <HomeComponents/>
     </main>
   )
 }
