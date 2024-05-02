@@ -1,7 +1,7 @@
 "use client";
 import "./globals.css";
 import localFont from '@next/font/local'
-import Header from '../app/components/Header/header'
+import Header from '../app/components/Header/Header'
 
 const poppins = localFont({
   src: [
